@@ -1,0 +1,10 @@
+{
+	"app":pluto,
+	"requirements":{
+		"bower":"",
+		"jquery":"2.1.3",
+		"font awesome":"4.3",
+		"bootstrap":"v3.3.2",
+		""
+	}
+}
