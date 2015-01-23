@@ -4,3 +4,6 @@ from django.http import HttpResponseRedirect
 
 def index(request):
 	return render_to_response('login.html')
+
+def admin(request):
+	return render_to_response('index.html')
